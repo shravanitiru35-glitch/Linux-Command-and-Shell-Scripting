@@ -1,0 +1,2 @@
+ls -l backup.sh
+-rwxr-xr-x 1 user user 1024 Apr 6 12:00 backup.sh
